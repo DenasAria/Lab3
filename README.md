@@ -83,7 +83,7 @@ Ini adalah hasil dari Membuat Tabel <p>
 <b>Mengatur Margin dan Padding</b>
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
 cellspacing pada tag table.
-<img width="213" alt="gambar5" src="https://user-images.githubusercontent.com/101621068/160341476-caec25d2-8cdd-4471-b291-febc87cb2032.png">
+<img width="213" alt="gambar5" src="https://user-images.githubusercontent.com/101621068/160341476-caec25d2-8cdd-4471-b291-febc87cb2032.png"> <br>
 
 Ini adalah hasil dari Mengatur Margin dan Padding<p>
 
@@ -96,7 +96,7 @@ Ini adalah hasil dari Mengatur Margin dan Padding<p>
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
 horizontal).
-<img width="223" alt="gambar6" src="https://user-images.githubusercontent.com/101621068/160341839-35564111-d88f-4ea3-ad3b-eabd727c1fda.png">
+<img width="223" alt="gambar6" src="https://user-images.githubusercontent.com/101621068/160341839-35564111-d88f-4ea3-ad3b-eabd727c1fda.png"> <br>
 
 Ini adalah hasil dari Menggabungkan Sel Data<p>
 
