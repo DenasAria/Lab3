@@ -21,5 +21,21 @@ Ini adalah hasil dari Membuat Ordered List <p>
 </ol>
 </section>
 ```
+## <b>Membuat Nonordered List</b>
+<img width="215" alt="gambar2" src="https://user-images.githubusercontent.com/101621068/160339902-b0e02440-5a33-4ab7-81b8-34dd137c04da.png">
+
+Ini adalah hasil dari Membuat Nonordered <p>
+
+## Contoh Coding
+```html
+<section id="unorder-list">
+<h2>Unordered List</h2>
+<ul type="square">
+<li>Jaringan Komputer</li>
+<li>Struktur Data</li>
+<li>Algoritma &amp; Pemrograman</li>
+</ul>
+</section>
+```
 
 
